@@ -41,7 +41,7 @@ opened _vi_, the built in terminal text editor. To escape out of this editor,
 press the 'esc' key once, then type `:x!` to close the editor and return to the
 normal terminal.
 
-6. Push up your local work to the remote
+7. Push up your local work to the remote
 
 ## Conclusion
 
